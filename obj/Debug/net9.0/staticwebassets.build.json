@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "C3kf1LNEFOu4BjCEx8DcdXczwyJQyIundnLOfjmyJRM=",
+  "Source": "dotnetwebapi",
+  "BasePath": "_content/dotnetwebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dotnetwebapi\\wwwroot",
+      "Source": "dotnetwebapi",
+      "ContentRoot": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\",
+      "BasePath": "_content/dotnetwebapi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\bz1hh7xk99-ugtzd9459e.gz",
+      "SourceId": "dotnetwebapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dotnetwebapi",
+      "RelativePath": "css/site#[.{fingerprint=ugtzd9459e}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "os97l56hto",
+      "Integrity": "WDaODvmlL2AAPw9YG47cEkqu1dDYistYaZjU44aRLHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\uzlwoy52ep-kqphv0hvjq.gz",
+      "SourceId": "dotnetwebapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dotnetwebapi",
+      "RelativePath": "js/site#[.{fingerprint=kqphv0hvjq}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\js\\site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8meru3knx1",
+      "Integrity": "wEweL/f4n6dg06edvmpWnpF+T+mb5o6vgNPhY3ZL0PI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\css\\site.css",
+      "SourceId": "dotnetwebapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\",
+      "BasePath": "_content/dotnetwebapi",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ugtzd9459e",
+      "Integrity": "7vC6myuNrJ4+McfweIJGBDWNymzCjRZBkCx+hnL1TNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\js\\site.js",
+      "SourceId": "dotnetwebapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\",
+      "BasePath": "_content/dotnetwebapi",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kqphv0hvjq",
+      "Integrity": "jOuLKeL/PbwrgwoeQgvIwb46m1us4TvCTZhSxyM/XLg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\bz1hh7xk99-ugtzd9459e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002544529262"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WDaODvmlL2AAPw9YG47cEkqu1dDYistYaZjU44aRLHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7vC6myuNrJ4+McfweIJGBDWNymzCjRZBkCx+hnL1TNk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7vC6myuNrJ4+McfweIJGBDWNymzCjRZBkCx+hnL1TNk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7vC6myuNrJ4+McfweIJGBDWNymzCjRZBkCx+hnL1TNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7vC6myuNrJ4+McfweIJGBDWNymzCjRZBkCx+hnL1TNk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\bz1hh7xk99-ugtzd9459e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WDaODvmlL2AAPw9YG47cEkqu1dDYistYaZjU44aRLHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WDaODvmlL2AAPw9YG47cEkqu1dDYistYaZjU44aRLHQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ugtzd9459e.css",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\bz1hh7xk99-ugtzd9459e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002544529262"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WDaODvmlL2AAPw9YG47cEkqu1dDYistYaZjU44aRLHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7vC6myuNrJ4+McfweIJGBDWNymzCjRZBkCx+hnL1TNk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ugtzd9459e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7vC6myuNrJ4+McfweIJGBDWNymzCjRZBkCx+hnL1TNk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ugtzd9459e.css",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7vC6myuNrJ4+McfweIJGBDWNymzCjRZBkCx+hnL1TNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ugtzd9459e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7vC6myuNrJ4+McfweIJGBDWNymzCjRZBkCx+hnL1TNk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ugtzd9459e.css.gz",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\bz1hh7xk99-ugtzd9459e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WDaODvmlL2AAPw9YG47cEkqu1dDYistYaZjU44aRLHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ugtzd9459e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WDaODvmlL2AAPw9YG47cEkqu1dDYistYaZjU44aRLHQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\uzlwoy52ep-kqphv0hvjq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008064516129"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEweL/f4n6dg06edvmpWnpF+T+mb5o6vgNPhY3ZL0PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jOuLKeL/PbwrgwoeQgvIwb46m1us4TvCTZhSxyM/XLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOuLKeL/PbwrgwoeQgvIwb46m1us4TvCTZhSxyM/XLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOuLKeL/PbwrgwoeQgvIwb46m1us4TvCTZhSxyM/XLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOuLKeL/PbwrgwoeQgvIwb46m1us4TvCTZhSxyM/XLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\uzlwoy52ep-kqphv0hvjq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEweL/f4n6dg06edvmpWnpF+T+mb5o6vgNPhY3ZL0PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEweL/f4n6dg06edvmpWnpF+T+mb5o6vgNPhY3ZL0PI="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.kqphv0hvjq.js",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\uzlwoy52ep-kqphv0hvjq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008064516129"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEweL/f4n6dg06edvmpWnpF+T+mb5o6vgNPhY3ZL0PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jOuLKeL/PbwrgwoeQgvIwb46m1us4TvCTZhSxyM/XLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kqphv0hvjq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOuLKeL/PbwrgwoeQgvIwb46m1us4TvCTZhSxyM/XLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.kqphv0hvjq.js",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOuLKeL/PbwrgwoeQgvIwb46m1us4TvCTZhSxyM/XLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kqphv0hvjq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOuLKeL/PbwrgwoeQgvIwb46m1us4TvCTZhSxyM/XLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.kqphv0hvjq.js.gz",
+      "AssetFile": "C:\\Users\\HPADMIN\\Downloads\\dotnetwebapi\\dotnetwebapi\\obj\\Debug\\net9.0\\compressed\\uzlwoy52ep-kqphv0hvjq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEweL/f4n6dg06edvmpWnpF+T+mb5o6vgNPhY3ZL0PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kqphv0hvjq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEweL/f4n6dg06edvmpWnpF+T+mb5o6vgNPhY3ZL0PI="
+        }
+      ]
+    }
+  ]
+}
